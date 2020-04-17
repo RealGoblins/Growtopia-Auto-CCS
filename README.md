@@ -4,7 +4,9 @@ This is a Growtopia toolbox developed for educational purposes. I am not respons
 ## Contact:
 Discord: RealGoblins#9029 or RealGoblins#0986. 
 Join my discord servers:
+
 (community and support) https://discord.gg/8ytpE44
+
 (Backup) https://discord.gg/9YgW6Zz
  
 ## Full list of features:
