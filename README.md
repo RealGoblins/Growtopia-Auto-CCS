@@ -1,5 +1,5 @@
 # Growtopia-Auto-CCS by RealGoblins
-This is a Growtopia toolbox developed for educational purposes. I am not responsible for what you use it for.
+This is a Growtopia toolbox developed for educational purposes. I am not responsible for what you use it for. This toolbox's main features are: auto clicking/farming, auto captcha solver, auto spammer.
 
  
 ## Full list of features:
