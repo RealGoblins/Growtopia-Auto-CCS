@@ -33,11 +33,15 @@ Join my discord servers:
 
 * Auto Log In
 
+* Manage growtopia's CPU usage. Approx. 5%
+
 ## Premium (1 DL/2€ lifetime):
 
 * Extended support & bug tracking
 
 * Access to the commands (Pull all, kick all, ban all)
+
+* Manage growtopia's CPU usage. Approx. 5%
 
 * NoShift for the spammer, without this, the spammer will affect your keyboard (Shift, alt gr etc)
 
