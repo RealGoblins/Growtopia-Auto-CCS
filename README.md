@@ -35,7 +35,11 @@ Join my discord servers:
 
 * Manage growtopia's CPU usage. Approx. 5%
 
-## Premium (1 DL/2€ lifetime):
+* Advanced online user counter
+
+* Multi spammer
+
+## Premium (2 DL/4€ lifetime):
 
 * Extended support & bug tracking
 
@@ -55,13 +59,15 @@ Join my discord servers:
 
 * Save your settings including macros
 
+* Multi spammer
+
 * All future features
 
 ## To do:
 
 * Add afk bots (premium)
 
-* Add Safer and more stable payment methods
+* Add Safer and more stable payment methods 
 
 ## Requirements:
 
