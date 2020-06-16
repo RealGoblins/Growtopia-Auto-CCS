@@ -2,12 +2,11 @@
 This is a Growtopia toolbox developed for educational purposes. I am not responsible for what you use it for. This toolbox's main features are: auto clicking/farming, auto captcha solver, auto spammer.
 
 ## Contact:
-Discord: RealGoblins#0986. 
+Discord: RealGoblins#7998. 
 Join my discord servers:
 
-(community and support) https://discord.gg/8ytpE44
+(community and support) https://discord.gg/5k7qYJV
 
-(Backup) https://discord.gg/9YgW6Zz
  
 ## Full list of features:
 
