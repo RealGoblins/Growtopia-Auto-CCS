@@ -2,9 +2,8 @@
 This is a Growtopia toolbox developed for educational purposes. I am not responsible for what you use it for. This toolbox's main features are: auto clicking/farming, auto captcha solver, auto spammer.
 ## How to download & install
 1. Simply follow this link: https://github.com/RealGoblins/Growtopia-Auto-CCS/archive/master.zip
-2. Do ctrl + J (chrome)
-3. Press keep it
-4. Unzip it with WinRar (tight click -> extract to...)
+2. (If necessary) Do ctrl + J (chrome) and press keep it
+4. Unzip it with WinRar (right click -> extract to...)
 enjoy!
 
 # Contact:
