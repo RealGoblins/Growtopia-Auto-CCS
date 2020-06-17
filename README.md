@@ -42,6 +42,10 @@ Join my discord server:
 
 * Multi spammer
 
+* Advanced monitoring which shows miniatures of all Growtopia windows
+
+* Background macro recorder
+
 ## Premium (2 DL/4€ lifetime):
 
 * Extended support & bug tracking
@@ -63,6 +67,10 @@ Join my discord server:
 * Save your settings including macros
 
 * Multi spammer
+
+* Extended advanced monitoring which shows miniatures of all Growtopia windows
+
+* Background macro recorder
 
 * All future features
 
