@@ -9,7 +9,7 @@ enjoy!
 # Contact:
 Discord: RealGoblins#7998. 
 Join my discord server:
-(community and support) https://discord.gg/5k7qYJV
+(community and support) https://discord.gg/rU87Q7T
 
  
 ## Full list of features:
