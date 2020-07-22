@@ -7,9 +7,9 @@ This is a Growtopia toolbox developed for educational purposes. I am not respons
 enjoy!
 
 # Contact:
-Discord: RealGoblins#7998. 
+Discord: RealGoblins#2300b. 
 Join my discord server:
-(community and support) https://discord.gg/rU87Q7T
+(community and support) https://bit.ly/Auto-CCS-Discord
 
  
 ## Full list of features:
