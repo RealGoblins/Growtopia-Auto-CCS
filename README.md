@@ -1,5 +1,7 @@
 # Growtopia-Auto-CCS by RealGoblins
 This is a Growtopia toolbox developed for educational purposes. I am not responsible for what you use it for. This toolbox's main features are: auto clicking/farming, auto captcha solver, auto spammer.
+VT link: https://www.virustotal.com/gui/file/592bb967d78f66bd3842aee95ffe9cfc9bafb8f10e50c73bc26d2327e1be4874/detection
+
 ## How to download & install
 1. Simply follow this link: https://github.com/RealGoblins/Growtopia-Auto-CCS/archive/master.zip
 2. (If necessary) Do ctrl + J (chrome) and press keep it
@@ -46,6 +48,8 @@ Join my discord server:
 
 * Background macro recorder
 
+* background multi bot auto fishing
+
 ## Premium (2 DL/4€ lifetime):
 
 * Extended support & bug tracking
@@ -72,16 +76,16 @@ Join my discord server:
 
 * Background macro recorder
 
+* full auto fishing (more than 1 instance & more than 2 bots)
+
 * All future features
 
 ## To do:
 
-* Add afk bots (premium)
-
-* Add Safer and more stable payment methods 
+* Proxy
 
 ## Requirements:
 
-* Windows 10 (or windows 7 with latest framework update)
+* Windows 10 (or windows 7 with latest .NET framework update)
 
 * Common sense
