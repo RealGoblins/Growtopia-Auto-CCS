@@ -11,7 +11,7 @@ enjoy!
 # Contact:
 Discord: RealGoblins#2300. 
 Join my discord server:
-(community and support) https://bit.ly/Auto-CCS-Discord
+(community and support) https://realgoblins.eu/Discord
 
  
 ## Full list of features:
