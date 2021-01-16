@@ -50,7 +50,7 @@ Join my discord server:
 
 * background multi bot auto fishing
 
-## Premium (2 DL/4€ lifetime):
+## Premium (3 DLs/3€ lifetime):
 
 * Extended support & bug tracking
 
@@ -78,11 +78,18 @@ Join my discord server:
 
 * full auto fishing (more than 1 instance & more than 2 bots)
 
-* All future features
+## Premium+ (5 DLs/5€ lifetime/2DLs/2€ upgrade from premium):
 
-## To do:
+* Extended support & bug tracking
 
-* Proxy
+* Bots which work as their own GT clients, consuming about 0,05% CPU each.
+
+* Auto-Msg when someone joins the world
+
+* Super multibotting which copies every movement and punch using X and Y coordinates.
+
+* Error connecting bypass (coming in 2.60)
+
 
 ## Requirements:
 
