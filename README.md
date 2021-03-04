@@ -88,7 +88,11 @@ Join my discord server:
 
 * Super multibotting which copies every movement and punch using X and Y coordinates.
 
-* Error connecting bypass (coming in 2.60)
+* Error connecting bypass 
+
+* Growscan feature
+
+* MultiBot auto farmer
 
 
 ## Requirements:
